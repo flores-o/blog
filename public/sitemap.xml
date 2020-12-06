@@ -3,20 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/my-first-post/</loc>
-    <priority>0</priority>
+    <loc>https://blog-ijx8.onrender.com/posts/my-first-post/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://blog-ijx8.onrender.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://blog-ijx8.onrender.com/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://blog-ijx8.onrender.com/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog-ijx8.onrender.com/tags/</loc>
   </url>
   
 </urlset>

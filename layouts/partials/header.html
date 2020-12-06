@@ -1,0 +1,36 @@
+<header id="header">
+  <div style="display:flex; flex-direction:column; overflow-wrap:break-word;">
+      <!--
+  {{ if (isset .Site.Params "gravatar") }}
+    <div id="logo" style="background-image: url(https://www.gravatar.com/avatar/{{ md5 .Site.Params.gravatar }}?s=100&d=identicon)"></div>
+  {{ else if (isset .Site.Params "logo") }}
+    <div id="logo" style="background-image: url({{ .Site.Params.logo | absURL }})"></div>
+  {{ else }}
+    <div id="logo" style="background-image: url({{ "images/profile_pic.jpeg" | absURL }})"></div>
+    {{ end}} 
+      -->
+    <!-- 
+        <div style="background-image: url({{"images/profile_pic.jpeg"}});
+        border-radius: 50%">  </div>
+    -->
+        <img class="" src = "images/profile_pic.jpeg" style="border-radius:
+    5%; width:20%!important;display:inline-block;">
+
+  <div id="title" style="display:block">
+    <h1>{{ .Site.Title }}</h1>
+  </div>
+
+  </div>
+
+  <div id="nav">
+    <ul>
+      <li class="icon">
+        <a href="#"><i class="fas fa-bars fa-2x"></i></a>
+      </li>
+      {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+</header>
+
