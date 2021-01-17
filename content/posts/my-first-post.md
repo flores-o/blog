@@ -1,3 +1,4 @@
+ How to get an offer from FAANG?
  I interviewed a lot in my short work experience and I got rejected. And I got
  offers. Google, Amazon, DeepMind, Facebook, Bloomberg, Skyscanner, JP Morgan,
  Morgan Stanley. \
@@ -7,7 +8,7 @@
  Data structures and algorithms. Only one subject out of the entire Computer
  Science degree. \
  You also need to know the time and space complexity of every data structure.
- ##Resources \
+ ## Resources \
  **Leetcode**. This is the place to practice for the technical interview. They have
  a big collection of problems, but not too big to be overwhelming, nicely
  organized on topics. 
@@ -31,7 +32,7 @@
  Past interviews, salaries and the opinions of others. \
  **Bonus**, before an interview, I like to have a quick glance at this cheat sheet
  that has all the times and space complexities in one place. \
- ##Your resume \
+ ## Your resume \
  It should have one page and one page only.\
  Use keywords. The company might use a tool for parsing resumes. Don’t use long
  complicated sentences, artistic touches and no need for pictures.\
@@ -42,7 +43,7 @@
  Here is a good example of the resume, one done in latex, really nice, I used
  it as a template myself.\
  ##The application process
- **Apply early.** Apply in September or October or when applications open, This is
+ ** Apply early.** Apply in September or October or when applications open, This is
  because applications are processed on a rolling bases, so first come, first
  served.\
  **Ask for a referral.** You might know someone that works there, reach out and ask
@@ -57,7 +58,7 @@
  **Reach out on Linkedin**. If you don’t know anyone who already works there, reach
  out on Linkedin to someone who works there and ask their advice on how you
  could secure a position. \
- ##The technical interview\
+ ## The technical interview\
  Your code will probably not be compiled. So you can write everything.
  You’ve practiced on Leetcode, go on Glassdoor, check other interviews and
  schedule some mock ones on Pramp.
@@ -80,7 +81,7 @@
              unit test, but spoken.\
  7. Reiterate.\
    Here is a technical interview example done by Google.\
- ##The behavioral interview\
+ ## The behavioral interview\
              You might have a separate interview with the human resources team,
              it might be included in a technical one, or it might not be at
              all.
