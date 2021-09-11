@@ -84,8 +84,8 @@
     </ul>
     {{ end }}
   </section>
-
-  {{ $showProjectsList := false }}
+  
+  {{ $showProjectsList := true }}
   {{ if .Site.Data.projects }}
     {{ $showProjectsList = true }}
   {{ else if (isset .Site.Params "showProjectsList") }}

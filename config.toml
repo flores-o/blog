@@ -1,4 +1,24 @@
 baseURL = "https://blog-ijx8.onrender.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = ""
 theme = "cactus"
+
+[params]
+
+  description = "ML Eng @FB. Into startups, products, meditation, learning chinese."
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/oana-florescu-97996716a/"
+
+[[params.social]]
+  name = "youtube"
+  link = "https://www.youtube.com/channel/UCrrQ55QjxXEDbJ4ojOjXvTw" # no need for "mailto:" at the start
+
+[[params.social]]
+  name = "instagram"
+  link = "https://www.instagram.com/quinn.musk/"
+
+[[params.social]]
+  name = "goodreads"
+  link = "https://www.goodreads.com/review/list/38467987-oana-florescu?ref=nav_mybooks"

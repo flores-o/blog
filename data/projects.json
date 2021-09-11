@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "name":"goldhousero.com",
+      "url":"https://www.goldhousero.com/",
+      "desc":"Mentorship program for romanian students in CS"
+    },
+    {
+      "name":"milkshake.gg",
+      "url":"https://www.youtube.com/watch?v=4EILqNctxFg&ab_channel=QuinnMusk",
+      "desc":"free & paid livestreamed coding lessons "
+    },
+    {
+      "name":"habiter.app",
+      "url":"https://habiter.app/leetcode",
+      "desc":"study groups to prepare for cracking the coding interviews"
+    },
+    {
+      "name":"MiaTV",
+      "url":"https://fburl.com/woffot6i",
+      "desc":"automatically generating YouTube videos from spanish wikipedia"
+    }
+  ]
+}

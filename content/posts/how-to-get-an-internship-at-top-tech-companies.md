@@ -8,12 +8,12 @@ draft: false
  Morgan Stanley.\
  I compiled here all the advice that I give to my friends when they ask or when
  they don’t ask.\
- ##What you need to know?
+ ## What you need to know?
  Data structures and algorithms. Only one subject out of the entire Computer
  Science degree.\
  You also need to know the time and space complexity of every data structure.
  ## Resources 
- **Leetcode.** This is the place to practice for the technical interview. They have
+ [**Leetcode.**](https://leetcode.com/problem-list/wpwgkgt/) This is the place to practice for the technical interview. They have
  a big collection of problems, but not too big to be overwhelming, nicely
  organized on topics. 
  The problems that you’ll get in your interview will be the same as the ones on
@@ -21,13 +21,13 @@ draft: false
  interview will be the same as the ones on Leetcode or slightly modified. It
  might feel like cheating when you solve the problems on Leetcode, but it’s
  not, everyone is doing it.\
- **Geeksforgeeks.**. Every data structure and algorithm that you’ll need is nicely
+ [**Geeksforgeeks.**](geeksforgeeks.org/data-structures) Every data structure and algorithm that you’ll need is nicely
  explained on Geeksforgeeks. I look at Geeksforgeeks at theoretical support and
  Leetcode as practical support. If you’re new to the subject, go on
  Geeksforgeeks, check what is a linked list, how it’s implemented, what
  problems you can solve using this data structure and then go on Leetcode and
  do it yourself.\
- **Pramp.** Here you get paired up with another candidate, you interview him and in
+ [**Pramp.**](https://www.pramp.com/#/) Here you get paired up with another candidate, you interview him and in
  turn, he interviews you. It’s a mock interview. I cannot stress how important
  it is to recreate the interview experience. I get to be really nervous during
  interviews, so I schedule a couple of mock interviews before my real
@@ -37,15 +37,15 @@ draft: false
  **Bonus**, before an interview, I like to have a quick glance at this cheat sheet
  that has all the times and space complexities in one place.
  ## Your resume 
- It should have one page and one page only.\
- Use keywords. The company might use a tool for parsing resumes. Don’t use long
+ It should have one page and **one page only**.\
+ **Use keywords**. The company might use a tool for parsing resumes. Don’t use long
  complicated sentences, artistic touches and no need for pictures.\
- Amazing, but not necessary, contributions to open source projects and
- competitions\
+ Amazing, but not necessary, contributions to **open source projects and
+ competitions**\
  Make the most with what you have. Get a nice description for your university
- projects, host them on Github and link your Github to your resume.
- Here is a good example of the resume, one done in latex, really nice, I used
- it as a template myself.
+ projects, host them on Github and link your Github to your resume.\
+ [Here](https://github.com/ericpts/resume) is a good example of the resume, one done in latex, I used
+ it as a **template** myself.
  ## The application process
  **Apply early.** Apply in September or October or when applications open, This is
  because applications are processed on a rolling bases, so first come, first
@@ -93,10 +93,10 @@ draft: false
  Research the company: mantra, values, CEO.
     Prepare answers. Why this company? Tell me about a time when…
  Tell me a bit about yourself.\
-    **The offer**\
- Congratulations! You got it.\
-    **Rejection**\
-    Congrats again. You just got the details of the recruiter, come
+  ##  **The offer**
+ Congratulations! You got it.
+  ##  **Rejection**
+ Congrats again. You just got the details of the recruiter, come
              back in 6 to 12 months.
 
  The thing that I want you to remember from this post is that if
