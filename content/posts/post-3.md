@@ -1,6 +1,6 @@
 ---
-title: "How to get an offer from FAANG?"
-date: 2019-10-01
+title: "How confidence works by Ian Roberts"
+date: 2021-02-01
 draft: false
 ---
 ## What is confidence?
