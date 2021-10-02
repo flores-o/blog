@@ -42,3 +42,17 @@ If your freedom of choice has been restriced throughout your life by an excessiv
 * Could these fluctuations in the activity of this feel-good network merely be the transient marker if momentary pleasure rather than having any link to out longer-term happines and wellbeing? No, the greater yoyr wellbeing and happiness, the higher the level of dopamine activity in this circuit.
 
 * Dopamine-driven pleasurable activity dramatically reduces the amount of the stress hormone cortisol that your body makes. And, as we saw earlier, happiness breeds confidence, and vice versa.
+
+* Feeling in control means that you believe you can act and that there will be consequences of that action. That is confidence.
+
+* Your happiness predicts your personal wealth independently of your socioeconomic status.
+
+* Silver medal winner are less happy on average than gold medalist. They are also less happy than bronze-medal competitors. This happens because your happiness depends upon who you compare yourself with.
+
+* So far, we discovered that confidence arises from success, higher socioeconomic status and happiness. Having a sense of control and feeling advantaged in comparison to others also have important effects in how these big variables play out in our lives. There are yet other factors at play.
+
+* If we have a fixed idea about our personality, intelligence or emotional state, than these seem unchangeable.
+
+* Having a fixed theory about yourself can help if you have a history of success. However, it is a fragile confidence because setback or gailures can seem evidence that your fixed idea is wrong.
+\
+With a growth midset, on the other hand, failure is just a part of the complex, multi-stranded nature of the learning. It is not a threat to your views of your abilities because they can be changed.
