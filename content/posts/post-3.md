@@ -1,6 +1,6 @@
 ---
 title: "How confidence works by Ian Roberts"
-date: 2021-02-01
+date: 2021-03-05
 draft: false
 ---
 ## What is confidence?
@@ -51,8 +51,42 @@ If your freedom of choice has been restriced throughout your life by an excessiv
 
 * So far, we discovered that confidence arises from success, higher socioeconomic status and happiness. Having a sense of control and feeling advantaged in comparison to others also have important effects in how these big variables play out in our lives. There are yet other factors at play.
 
+## Failing confidently
+
 * If we have a fixed idea about our personality, intelligence or emotional state, than these seem unchangeable.
 
 * Having a fixed theory about yourself can help if you have a history of success. However, it is a fragile confidence because setback or gailures can seem evidence that your fixed idea is wrong.
 \
 With a growth midset, on the other hand, failure is just a part of the complex, multi-stranded nature of the learning. It is not a threat to your views of your abilities because they can be changed.
+
+* [...] The more attractive a face was, the more competent the person was judged to be.
+
+* Should I change my job? Should I move to a new house? Take a few minutes to think through the pro and cons. This puts you in a ** deliberative ** mindset where you are weighting options and not fixated on a clear course of action.
+
+* Now bring to mind the most important personal goal you intend to achieve in the next few months - for example, I plan to find a new apartment. This will put you in an implemental mindset. You made a decision, you know what you are doing and are moving forward towards a clear goal.
+
+* An implemental mindset boost confidence.
+
+## The Gender Gap
+* Girls don't make nearly as many self-congratulatory comments as the opposite sex.
+
+* [...] This means that boys and girls are essentially playing by different rules in **a world in which projecting a self-enhancing view of one's ability actually works in making you more successful** in certain ways, for all the reasons outlined in Chapter 2.
+
+## Learning to be confident
+* It is easier to act yourself into a new way of feeling that to feel yourself into a new way of acting. - Harry Stack Sullivan
+
+* **Research shows that, at best, people's intentions transkate into concrete behaviour only 20-30% of the time**.  This means that most people, most of the time, are deprived of the confidence-building benefits of taking action.
+
+* Smart teams have their own intelligence separate from the averaged IQ of each individual member. The smartest groups were not those with highest IQ members. Instead, the individuals in the clever groups were adept at reading other people's facial expressions and took turns in discussions.
+
+* Personality characteristics that made people less overconfident about their intelligence: sensitivity to people criticism, nervousness, proness to guilty feelings, sensitive and worry prone vulnerability.
+
+## Overconfidence
+* Their peers saw them as more competent if they talked more and used a factual, confident tone. [...] And how many more - women more than men- have been rejected because they didn't bullshit at the interview?
+
+* **the mere capacity to appear bullishly confident garners status and the illusion of competence**
+
+* **And this is why overconfidence is a lucrative pattern of behaviour. It pays off in spades because it tricks people into giving you status. One you have it, it is near-indelible, even when your incompetence becomes evident.**
+
+## The confident economy
+* Healthy overconfidence propels individuals to take risks ans start new projects rather than sticking with old ones, which, in a changing world, can pay off.

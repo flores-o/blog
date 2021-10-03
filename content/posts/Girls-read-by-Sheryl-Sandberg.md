@@ -1,6 +1,6 @@
 ---
 title: "GIRL POWER by Sheryl Sandberg"
-date: 2021-05-30
+date: 2021-03-01
 draft: false
 ---
 ![Yellow Duck](/images/sheryl_1.jpeg 'Yellow Duck')
