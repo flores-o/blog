@@ -12,8 +12,8 @@ theme = "cactus"
   link = "https://www.linkedin.com/in/oana-florescu-97996716a/"
 
 [[params.social]]
-  name = "youtube"
-  link = "https://www.youtube.com/channel/UCrrQ55QjxXEDbJ4ojOjXvTw" # no need for "mailto:" at the start
+  name = "twitter"
+  link = "https://twitter.com/0xflores"
 
 [[params.social]]
   name = "instagram"
@@ -22,3 +22,8 @@ theme = "cactus"
 [[params.social]]
   name = "goodreads"
   link = "https://www.goodreads.com/review/list/38467987-oana-florescu?ref=nav_mybooks"
+
+
+[[params.social]]
+  name = "youtube"
+  link = "https://www.youtube.com/channel/UCrrQ55QjxXEDbJ4ojOjXvTw" # no need for "mailto:" at the start
