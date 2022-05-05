@@ -224,14 +224,27 @@ $(document).ready(function () {
 
   };
 
+
+
+
+
+
+  // show/hide first_time_here_giff logic
   var first_time_here_gif = $("#first_time_here_gif");
+
+
   // Basic usage
   if (firstImpression()) {
     console.log('New user');
     first_time_here_gif.show();
+    setTimeout(function() {
+      first_time_here_gif.fadeOut('fast');
+  }, 10000);
+
   }
   else { console.log('This user has been here before');
-  first_time_here_gif.hide();}
+  first_time_here_gif.hide();
+}
 
 
 
