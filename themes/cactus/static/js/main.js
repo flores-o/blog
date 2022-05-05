@@ -239,7 +239,7 @@ $(document).ready(function () {
     first_time_here_gif.show();
     setTimeout(function() {
       first_time_here_gif.fadeOut('fast');
-  }, 10000);
+  }, 8000);
 
   }
   else { console.log('This user has been here before');
