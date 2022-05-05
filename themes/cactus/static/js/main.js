@@ -224,12 +224,14 @@ $(document).ready(function () {
 
   };
 
-
+  var first_time_here_gif = $("#first_time_here_gif");
   // Basic usage
   if (firstImpression()) {
     console.log('New user');
+    first_time_here_gif.show();
   }
-  else { console.log('This user has been here before'); }
+  else { console.log('This user has been here before');
+  first_time_here_gif.hide();}
 
 
 
