@@ -57,7 +57,7 @@
   <span class="h2">Most recent</span>
   {{ end }}
 
-  {{ $showAllPostsOnHomePage := false }}
+  {{ $showAllPostsOnHomePage := true }}
   {{ if (isset .Site.Params "showallpostsonhomepage") }}
   {{ $showAllPostsOnHomePage = .Site.Params.ShowAllPostsOnHomePage }}
   {{ end }}
