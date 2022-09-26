@@ -1,6 +1,6 @@
 ---
 title: "[Draft][Book] Habits by James Clear"
-date: 2022-07-09
+date: 2020-01-01
 draft: false
 ---
 Resources
