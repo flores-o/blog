@@ -1,5 +1,5 @@
 ---
-title: "GIRL POWER by Sheryl Sandberg"
+title: "[Book] GIRL POWER by Sheryl Sandberg"
 date: 2021-03-01
 draft: false
 ---

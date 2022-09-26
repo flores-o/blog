@@ -1,5 +1,5 @@
 ---
-title: "Negotiation by Chriss Voss"
+title: "[Book] Negotiation by Chriss Voss"
 date: 2021-07-13
 draft: false
 ---

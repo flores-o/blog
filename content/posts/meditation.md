@@ -34,6 +34,10 @@ It gives me space and choice. Normally something is happening and there is an au
 
 With meditation and space, I can see what is happening, take a breath and choose if I react and how.
 
+Presence in relationships
+
+Interacting with people. Let them be them.
+
 
 Focus
 
