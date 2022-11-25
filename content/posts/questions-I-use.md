@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Questions I live by"
+title: "[Draft] Questions I go back to"
 date: 2022-05-01
 draft: false
 ---
