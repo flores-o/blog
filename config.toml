@@ -5,7 +5,7 @@ theme = "cactus"
 
 [params]
 
-  description = "ML Eng @FB. Into product, language, ML for code, solar & wind power, meditation, psychadelics research, advocate of female pleasure."
+  description = "ML Eng @FB. Into product, language, ML for code, solar & wind power, meditation, psychedelics research, advocate of female pleasure."
 [[params.social]]
   name = "linkedin"
   link = "https://www.linkedin.com/in/oana-florescu-97996716a/"
