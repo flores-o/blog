@@ -3,9 +3,10 @@ languageCode = "en-us"
 title = ""
 theme = "cactus"
 
+
 [params]
 
-  description = "ML Eng @FB. Into product, language, ML for code, solar & wind power, meditation, psychedelics research, advocate of female pleasure."
+  description = "Interpretability, samadhi practice and general wellbeing. Prev research eng @ Adobe, mle @ Meta"
 [[params.social]]
   name = "linkedin"
   link = "https://www.linkedin.com/in/oana-florescu-97996716a/"
@@ -13,15 +14,6 @@ theme = "cactus"
 [[params.social]]
   name = "twitter"
   link = "https://twitter.com/0xflores"
-
-[[params.social]]
-  name = "instagram"
-  link = "https://www.instagram.com/quinn.musk/"
-
-[[params.social]]
-  name = "goodreads"
-  link = "https://www.goodreads.com/review/list/38467987-oana-florescu?ref=nav_mybooks"
-
 
 [[params.social]]
   name = "youtube"

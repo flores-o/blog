@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on </description>
+    <title>Archives on </title>
+    <link>http://localhost:1313/archive/</link>
+    <description>Recent content in Archives on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Onboarding on AI Safety</title>
-      <link>http://localhost:1313/posts/onboarding-on-ai-safety/</link>
-      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/onboarding-on-ai-safety/</guid>
-      <description> I am working on activation steering with Nina Rimsky and Arjun Panickssery. You can follow the progress here. Feel free to leave suggestions or words of encouragement here. </description>
-    </item>
+    <lastBuildDate>Wed, 07 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/archive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Planned] Burningman 22</title>
       <link>http://localhost:1313/archive/on-burningman-22/</link>
