@@ -6,13 +6,21 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Onboarding on AI Safety</title>
       <link>http://localhost:1313/posts/onboarding-on-ai-safety/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/onboarding-on-ai-safety/</guid>
-      <description></description>
+      <description> I am working on activation steering with Nina Rimsky and Arjun Panickssery. You can follow the progress here. Feel free to leave suggestions or words of encouragement here. </description>
+    </item>
+    <item>
+      <title>Formal meditation practice</title>
+      <link>http://localhost:1313/posts/formal-meditation-practice/</link>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/formal-meditation-practice/</guid>
+      <description>Working towards easily accessing the first Jhanna states.&#xA;Teachers: Rob Burbea, Jhourney Team.&#xA;I meditate 2 hours/day and review the sessions here. Prev experience: Vipassana retreats (Goenka, 2021/UK, 2022/USA, would love to sit another one), the realization process with Judith Blacksmith, etc. Suggestions? DM me on twitter&#xA;If you have worked through the first jhannas and have suggestions, I&amp;rsquo;ll open the doc for comments.&#xA;I love Rob Burbea teachings, if you think I&amp;rsquo;d appreciate a different teaching or practice, please share.</description>
     </item>
   </channel>
 </rss>

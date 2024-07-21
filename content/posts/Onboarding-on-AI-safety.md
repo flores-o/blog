@@ -1,6 +1,7 @@
 ---
 title: "Onboarding on AI Safety"
 date: 2024-07-21
+weight: 1
 draft: false
 ---
 
