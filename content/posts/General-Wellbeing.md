@@ -11,4 +11,7 @@ draft: false
 * Meditate
 
 
-Note: The house that I live in with the lovely aussies in my life are supportive of these behaviours.
+Note: 
+* The house that I live in with the lovely aussies in my life are supportive of these behaviours.
+* Running notes [here](https://docs.google.com/document/d/1qgVkNyeafBwT7qVH832djBVCfdmoSD00rnzPte4Qug8/edit?usp=sharing)
+* Working out is one fav friend activity. If we know each other, we can gym together, a one off/ regulars. I do Barry's and we have weights in our backyard. Also curious about calisthenics, silks, etc.
